@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on CIMPA School 2026</title>
+    <link>https://mate.dm.uba.ar/~esantalo14/en/courses/</link>
+    <description>Recent content in Courses on CIMPA School 2026</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://mate.dm.uba.ar/~esantalo14/en/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iterative Methods and Preconditioning Strategies</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</guid>
+      <description>&lt;p&gt;The course will present both basic and state of the art methodologies for the design and analysis of iterative methods and fast solvers forthe solution of linear (and non-linear) systems. The first part will focus on classical techniques for the solution of large sparse linear systems arising from discretizations of second order elliptic partial differential equations (PDEs). We will cover domain decomposition and subspace correction methods, presenting the construction and convergence theory. Multilevel preconditioning techniques will be also discussed (starting from the two-level theory) together with a glimpse on Algebraic Multigrid methods (focusing on differences and similarities). If time allows, we will also present the use of Randomized techniques for the solution of the huge (dense) systems arising in some Machine Learning and Data Science applications. This includes Sketching tools and Nystrom methods for Kernel methods.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Error Estimates for the Approximation of nonsmooth Problems</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</guid>
+      <description>&lt;p&gt;Various modern applications including mathematical image processing and fracture modeling require the use of nondifferentiable functionals. Their numerical solution by standard finite element methods leads to suboptimal convergence rates. The talk discusses the use of nonconforming and discontinuous finite element methods and provides quasioptimal error estimates. These are obtained by using appropriate discrete convex duality relations and&#xA;identifying suitable regularity conditions. The techniques apply to a large class of convex minimization problems and lead to a postprocessing formula that provides the solution of the discrete dual problem via the nonconforming solution of the discrete primal problem. The approximations give rise to the definition of a primal-dual gap error estimator. Using the particular structure of the discrete dual variable we identify a monotonicity formula that allows us to establish efficiency properties of the estimator for a class of nonlinear Dirichlet problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mixed Finite Elements</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</guid>
+      <description>&lt;p&gt;The aim of this course is to introduce and discuss the theory of the finite element approximation of partial differential equations written in mixed form. This is the case when the unknowns can be described by two variables and the structure of the underlying operator is the one of a so called &amp;ldquo;saddle point problem&amp;rdquo; analogous to those arising from the use of Lagrange multipliers. We will recall the Brezzi inf-sup conditions and we will present several examples of applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Banach spaces-based Mixed Finite Element Method for nonlinear Problems in Fluid Mechanic</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</guid>
+      <description>&lt;p&gt;In this course we introduce a Banach-spaces based approach to study mixed formulations of nonlinear problems. We provide an overview of the current state of the art and recent advancements in this area, focusing on solving nonlinear systems in mixed form. Specifically, we apply this approach to analyze mixed finite element methods for the Navier-Stokes problem and for the stationary incompressible magnetohydrodynamic problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finite Element Approximation of Eigenvalue Problems</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</guid>
+      <description>&lt;p&gt;In this course we will introduce the students to the numerical analysis of eigenvalue problems associated with partial differential equations. Starting from easy numerical toy problems, we will show that in the case of standard elliptic equations any numerical scheme working well for the source problem can be applied successfully to the corresponding eigenvalue problem. This is not the case when eigenvalue problems in mixed form are considered. In this situation the classic inf-sup conditions are neither sufficient nor necessary for the correct approximation of the spectrum. We will describe the differences with examples and counterexamples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Posteriori Error Estimation and Adaptivity</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</guid>
+      <description>&lt;p&gt;In this course we will review the theory of adaptive finite element methods. One of the main ingredients of adaptive methods are a posteriori error estimators. These are computable quantities, depending on the computed discrete solution and the problem data, which provide information about the current error that can be used to locally increase the resolution of the mesh, with the ultimate goal of reducing the error with the least computational cost. We will present a posteriori error estimators for some model problems, and also adaptive methods based on these estimators. We will discuss optimality results for these adaptive methods, and will present a simple computational implementation, building the code from scratch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geometric Partial Differential Equations: Theory and Approximation</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</guid>
+      <description>&lt;p&gt;The purpose of this course is to discuss elements of differential geometry in the context of analysis and approximation of geometric partial differential equations (PDEs). This includes the study of variations of functionals with respect to shape and applications to several geometric flows, and finite element methods for the Laplace-Beltrami operator. The emphasis is on variational formulations and approximation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Numerical Methods for Random Partial Differential Equations</title>
+      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</guid>
+      <description>&lt;p&gt;Many processes across science and engineering can be modelled by partial differential equations (PDEs). However, these PDE models are often affected by uncertainties due to a lack of knowledge, intrinsic variability in the system, or an imprecise manufacturing process. These uncertainties could appear for instance in material properties, source terms, or boundary conditions. The goal of this course is to provide basic knowledge of the random PDEs as well as various efficient numerical solution techniques for this class of problems. The course will cover modern computational approaches and their mathematical foundations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
