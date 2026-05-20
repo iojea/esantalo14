@@ -20,7 +20,7 @@ Speakers can make their booking at the same hotel. Alternatively, they can conta
 # Buenos Aires
 In Buenos Aires participants will stay at [Hotel Las Familias](https://www.hotellasfamilias.com/es/).
 
-Regretfully we cannot offer corporate fees in Buenos Aires. We suggest the following hotels: 
+Regretfully we cannot offer corporate fees for speakers. We suggest the following hotels: 
 
 + [Pampa Plaza Hotel](https://hotelpampaplaza.com.ar): 5 minutes walk from the Faculty.
 + [LM Hotel](https://lm-hoteles.com.ar): more expensive. 10 minutes from the Faculty. 
