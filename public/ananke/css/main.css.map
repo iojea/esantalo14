@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/iojea/Seafile/Nube/Web/santalo2026",
+	"sourceRoot": "/Users/iojea/git/santalo2026",
 	"sources": [
 		"ananke/css/main.css"
 	],

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avanzado on Escuela CIMPA 2026</title>
-    <link>https://mate.dm.uba.ar/~esantalo14/tags/avanzado/</link>
+    <link>http://localhost:1313/~esantalo14/tags/avanzado/</link>
     <description>Recent content in Avanzado on Escuela CIMPA 2026</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
-    <atom:link href="https://mate.dm.uba.ar/~esantalo14/tags/avanzado/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/~esantalo14/tags/avanzado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aproximación por Elementos Finitos a Problemas de Autovalores</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/cursos/gastaldi/gastaldi/</link>
+      <link>http://localhost:1313/~esantalo14/cursos/gastaldi/gastaldi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/gastaldi/gastaldi/</guid>
+      <guid>http://localhost:1313/~esantalo14/cursos/gastaldi/gastaldi/</guid>
       <description>&lt;p&gt;En este curso introduciremos a los estudiantes al análisis numérico de problemas de autovalores asociados con ecuaciones diferenciales parciales. Partiendo de problemas numéricos sencillos, mostraremos que en el caso de ecuaciones elípticas estándar, cualquier esquema numérico que funcione bien para el problema fuente se puede aplicar con éxito al problema de valores propios correspondiente. Este no es el caso cuando se consideran problemas de valores propios en forma mixta. En esta situación las condiciones inf-sup clásicas no son suficientes ni necesarias para la correcta aproximación del espectro. Describiremos las diferencias con ejemplos y contraejemplos.&lt;/p&gt;</description>
     </item>
   </channel>

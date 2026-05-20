@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced on CIMPA School 2026</title>
-    <link>https://mate.dm.uba.ar/~esantalo14/en/tags/advanced/</link>
+    <link>http://localhost:1313/~esantalo14/en/tags/advanced/</link>
     <description>Recent content in Advanced on CIMPA School 2026</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://mate.dm.uba.ar/~esantalo14/en/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/~esantalo14/en/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error Estimates for the Approximation of nonsmooth Problems</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</link>
+      <link>http://localhost:1313/~esantalo14/en/courses/bartels/bartels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</guid>
+      <guid>http://localhost:1313/~esantalo14/en/courses/bartels/bartels/</guid>
       <description>&lt;p&gt;Various modern applications including mathematical image processing and fracture modeling require the use of nondifferentiable functionals. Their numerical solution by standard finite element methods leads to suboptimal convergence rates. The talk discusses the use of nonconforming and discontinuous finite element methods and provides quasioptimal error estimates. These are obtained by using appropriate discrete convex duality relations and&#xA;identifying suitable regularity conditions. The techniques apply to a large class of convex minimization problems and lead to a postprocessing formula that provides the solution of the discrete dual problem via the nonconforming solution of the discrete primal problem. The approximations give rise to the definition of a primal-dual gap error estimator. Using the particular structure of the discrete dual variable we identify a monotonicity formula that allows us to establish efficiency properties of the estimator for a class of nonlinear Dirichlet problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Banach spaces-based Mixed Finite Element Method for nonlinear Problems in Fluid Mechanic</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</link>
+      <link>http://localhost:1313/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</guid>
+      <guid>http://localhost:1313/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</guid>
       <description>&lt;p&gt;In this course we introduce a Banach-spaces based approach to study mixed formulations of nonlinear problems. We provide an overview of the current state of the art and recent advancements in this area, focusing on solving nonlinear systems in mixed form. Specifically, we apply this approach to analyze mixed finite element methods for the Navier-Stokes problem and for the stationary incompressible magnetohydrodynamic problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finite Element Approximation of Eigenvalue Problems</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</link>
+      <link>http://localhost:1313/~esantalo14/en/courses/gastaldi/gastaldi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</guid>
+      <guid>http://localhost:1313/~esantalo14/en/courses/gastaldi/gastaldi/</guid>
       <description>&lt;p&gt;In this course we will introduce the students to the numerical analysis of eigenvalue problems associated with partial differential equations. Starting from easy numerical toy problems, we will show that in the case of standard elliptic equations any numerical scheme working well for the source problem can be applied successfully to the corresponding eigenvalue problem. This is not the case when eigenvalue problems in mixed form are considered. In this situation the classic inf-sup conditions are neither sufficient nor necessary for the correct approximation of the spectrum. We will describe the differences with examples and counterexamples.&lt;/p&gt;</description>
     </item>
   </channel>
