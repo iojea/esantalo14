@@ -24,4 +24,4 @@ Se dictarán ocho cursos, cuatro durante la primera semana (Rosario) y otros cua
 ![logo](images/compositiologo.png) &ensp;
 ![logo](images/logo-bicocca.jpg)
 
-![verywidelogo](/images/fundacen.png)
+![verywidelogo](images/fundacen.png)

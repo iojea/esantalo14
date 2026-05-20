@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Análisis Numérico de EDPs on Escuela CIMPA 2026</title>
-    <link>http://localhost:1313/~esantalo14/</link>
+    <link>https://mate.dm.uba.ar/~esantalo14/</link>
     <description>Recent content in Análisis Numérico de EDPs on Escuela CIMPA 2026</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
-    <atom:link href="http://localhost:1313/~esantalo14/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mate.dm.uba.ar/~esantalo14/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Métodos Iterativos y Estrategias de Precondicionamiento</title>
-      <link>http://localhost:1313/~esantalo14/cursos/ayuso/ayuso/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/ayuso/ayuso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/ayuso/ayuso/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/ayuso/ayuso/</guid>
       <description>&lt;p&gt;El curso presentará metodologías tanto básicas como avanzadas para el diseño y análisis de métodos iterativos y &lt;em&gt;solvers&lt;/em&gt; rápidos para la solución de sistemas lineales (y no lineales). La primera parte se centrará en técnicas clásicas para la solución de grandes sistemas lineales dispersos que surgen de discretizaciones de ecuaciones diferenciales parciales (EDP) elípticas de segundo orden. Cubriremos los métodos de descomposición de dominios y corrección subespacial, presentando la construcción y la teoría de convergencia. También se discutirán técnicas de precondicionamiento multinivel (a partir de la teoría de dos niveles) junto con un vistazo a los métodos multigrilla algebraicos (centrándose en diferencias y similitudes). Si el tiempo lo permite, también presentaremos el uso de técnicas aleatorias para la solución de sistemas enormes (densos) que surgen en algunas aplicaciones de aprendizaje automático y ciencia de datos. Esto incluye herramientas de Boceto y métodos Nystrom para núcleos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estimaciones de Error para la Aproximación de Problemas no-suaves.</title>
-      <link>http://localhost:1313/~esantalo14/cursos/bartels/bartels/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/bartels/bartels/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</guid>
       <description>&lt;p&gt;Varias aplicaciones modernas, incluido el procesamiento matemático de imágenes y el modelado de fracturas, requieren el uso de funcionales no diferenciables. Su solución numérica mediante métodos estándar de elementos finitos conduce a tasas de convergencia subóptimas. El curso analiza el uso de métodos de elementos finitos discontinuos y no conformes y proporciona estimaciones de error cuasióptimas. Estos se obtienen utilizando relaciones de dualidad convexas discretas apropiadas e identificando condiciones de regularidad adecuadas. Las técnicas se aplican a una gran clase de problemas de minimización convexa y conducen a una fórmula de posprocesamiento que proporciona la solución del problema dual discreto a través de la solución no conforme del problema primario discreto. Las aproximaciones dan lugar a la definición de un estimador de error de brecha dual primal. Utilizando la estructura particular de la variable dual discreta identificamos una fórmula de monotonicidad que nos permite establecer propiedades de eficiencia del estimador para una clase de problemas de Dirichlet no lineales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elementos Finitos Mixtos</title>
-      <link>http://localhost:1313/~esantalo14/cursos/boffi/boffi/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/boffi/boffi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/boffi/boffi/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/boffi/boffi/</guid>
       <description>&lt;p&gt;El objetivo de este curso es presentar y discutir la teoría de aproximación por elementos finitos de ecuaciones diferenciales parciales escritas en forma mixta. Este es el caso cuando las incógnitas pueden describirse mediante dos variables y la estructura del operador subyacente es la del llamado &amp;ldquo;problema de punto de silla&amp;rdquo;, análogo a los que surgen del uso de multiplicadores de Lagrange. Recordaremos las condiciones inf-sup de Brezzi y presentaremos varios ejemplos de aplicaciones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Métodos de Elementos Finitos Mixtos en Espacios de Banach para Problemas no lineales de Mecánica de Fluidos</title>
-      <link>http://localhost:1313/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</guid>
       <description>&lt;p&gt;En este curso presentamos un enfoque basado en espacios de Banach para estudiar formulaciones mixtas de problemas no lineales. Proporcionamos una descripción general del estado actual del arte y los avances recientes en el área, enfocándonos en la resolución de sistemas no lineales en forma mixta. Específicamente, aplicamos este enfoque para analizar métodos mixtos de elementos finitos para el problema de Navier-Stokes y para el problema magnetohidrodinámico estacionario incompresible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aproximación por Elementos Finitos a Problemas de Autovalores</title>
-      <link>http://localhost:1313/~esantalo14/cursos/gastaldi/gastaldi/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/gastaldi/gastaldi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/gastaldi/gastaldi/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/gastaldi/gastaldi/</guid>
       <description>&lt;p&gt;En este curso introduciremos a los estudiantes al análisis numérico de problemas de autovalores asociados con ecuaciones diferenciales parciales. Partiendo de problemas numéricos sencillos, mostraremos que en el caso de ecuaciones elípticas estándar, cualquier esquema numérico que funcione bien para el problema fuente se puede aplicar con éxito al problema de valores propios correspondiente. Este no es el caso cuando se consideran problemas de valores propios en forma mixta. En esta situación las condiciones inf-sup clásicas no son suficientes ni necesarias para la correcta aproximación del espectro. Describiremos las diferencias con ejemplos y contraejemplos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estimaciones a Posteriori y Adaptividad</title>
-      <link>http://localhost:1313/~esantalo14/cursos/morin/morin/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/morin/morin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/morin/morin/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/morin/morin/</guid>
       <description>&lt;p&gt;En este curso revisaremos la teoría de métodos adaptativos de elementos finitos. Uno de los principales ingredientes de los métodos adaptativos son los estimadores de error a posteriori. Estas son cantidades computables, dependiendo de la solución discreta calculada y los datos del problema, que proporcionan información sobre el error actual que puede usarse para aumentar localmente la resolución de la malla, con el objetivo final de reducir el error con el menor costo computacional. Presentaremos estimadores de error a posteriori para algunos problemas modelo, y también métodos adaptativos basados ​​en estos estimadores. Discutiremos los resultados de optimización de estos métodos adaptativos y presentaremos una implementación computacional simple, construyendo el código desde cero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecuaciones Diferenciales Parciales Geométricas: Teoría y Aproximación</title>
-      <link>http://localhost:1313/~esantalo14/cursos/nochetto/nochetto/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/nochetto/nochetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/nochetto/nochetto/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/nochetto/nochetto/</guid>
       <description>&lt;p&gt;El propósito de este curso es discutir elementos de geometría diferencial en el contexto del análisis y aproximación de ecuaciones diferenciales parciales geométricas (EDPs). Esto incluye el estudio de variaciones de funcionales con respecto a la forma y aplicaciones a varios flujos geométricos, y métodos de elementos finitos para el operador de Laplace-Beltrami. El énfasis está en las formulaciones variacionales y la aproximación.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Métodos Numéricos para Ecuaciones en Derivadas Parciales Aleatórias</title>
-      <link>http://localhost:1313/~esantalo14/cursos/tempone/tempone/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/tempone/tempone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/tempone/tempone/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/tempone/tempone/</guid>
       <description>&lt;p&gt;Muchos procesos en la ciencia y la ingeniería pueden modelarse mediante ecuaciones diferenciales parciales (EDP). Sin embargo, estos modelos suelen verse afectados por incertidumbres debidas a la falta de conocimiento, la variabilidad intrínseca del sistema o un proceso de fabricación impreciso. Estas incertidumbres podrían aparecer, por ejemplo, en las propiedades de los materiales, los términos de origen o las condiciones de contorno. El objetivo de este curso es proporcionar conocimientos básicos de las EDP aleatorias, así como varias técnicas de solución numérica eficientes para esta clase de problemas. El curso cubrirá enfoques computacionales modernos y sus fundamentos matemáticos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alojamiento</title>
-      <link>http://localhost:1313/~esantalo14/alojamiento/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/alojamiento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/alojamiento/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/alojamiento/</guid>
       <description>&lt;h1 id=&#34;rosario&#34;&gt;Rosario&lt;/h1&gt;&#xA;&lt;p&gt;En Rosario los participantes estarán alojados en el &lt;a href=&#34;https://www.aristonhotel.com.ar&#34;&gt;Ariston Hotel&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe width=&#34;425&#34; height=&#34;350&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=-60.66950798034669%2C-32.94928082012804%2C-60.64637660980225%2C-32.93590115940883&amp;amp;layer=mapnik&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?#map=16/-32.94259/-60.65794&#34;&gt;Agrandar mapa&lt;/a&gt;&lt;/small&gt;&#xA;&lt;p&gt;Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fin a &lt;a href=&#34;mailto:ariel@fceia.unr.edu.ar&#34;&gt;Ariel Lombardi&lt;/a&gt;. En caso de hacer la reserva directamente en el hotel, recuerden mencionar que participan de la escuela CIMPA para obtener la tarifa promocional e indicar que son extranjeros, dado que al pagar con una tarjeta de crédito extranjera no se les cobrará el IVA (VAT).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/~esantalo14/contacto/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/contacto/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/contacto/</guid>
       <description>&lt;p&gt;Para contactar al Comité Organizador, escribir a: &lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;&lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;esantalo14@dm.uba.ar&lt;/a&gt;&lt;/a&gt; o completar el siguiente formulario.&lt;/p&gt;&#xA;&lt;!-- modify this form HTML and place wherever you want your form --&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xrbejbak&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Tu nombre&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Dirección de correo electrónico&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      Se requiere una dirección de correo electrónico.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Mensaje&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Enviar&#34; /&gt;&#xA;&#xA;&lt;/form&gt;</description>
     </item>
     <item>
       <title>Inscripción</title>
-      <link>http://localhost:1313/~esantalo14/inscripcion/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/inscripcion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/inscripcion/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/inscripcion/</guid>
       <description>&lt;p&gt;La inscripción se realiza a través de CIMPA, en el siguiente link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;https://applications.cimpa.info&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fecha límite para la inscripción: &lt;strong&gt;18 de marzo de 2026&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organización</title>
-      <link>http://localhost:1313/~esantalo14/organizacion/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/organizacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/organizacion/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/organizacion/</guid>
       <description>&lt;h2 id=&#34;coordinadores&#34;&gt;Coordinadores&lt;/h2&gt;&#xA;&lt;p&gt;Gabriel Acosta (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Sören Bartels  (&lt;em&gt;University of Freiburg&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;comité-organizador&#34;&gt;Comité Organizador&lt;/h2&gt;&#xA;&lt;p&gt;Gabriela  Armentano (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Blanca Ayuso  (&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;)&lt;br&gt;&#xA;Juan Pablo Borthagaray (&lt;em&gt;Universidad de la República&lt;/em&gt;)&lt;br&gt;&#xA;Malena Español (&lt;em&gt;Arizona State University&lt;/em&gt;)&lt;br&gt;&#xA;Ariel Lombardi (&lt;em&gt;Universidad Nacional de Rosario&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;comité-local---rosario&#34;&gt;Comité Local - Rosario&lt;/h2&gt;&#xA;&lt;p&gt;María Evangelina Álvarez&lt;br&gt;&#xA;Melani Barrios&lt;br&gt;&#xA;Nahuel Carusso&lt;br&gt;&#xA;Eugenio Della Vecchia&lt;br&gt;&#xA;Elina Mancinelli&lt;br&gt;&#xA;Lucía Moroni&lt;br&gt;&#xA;Cecilia Penessi&lt;br&gt;&#xA;Sabrina Roscani&lt;/p&gt;&#xA;&lt;h2 id=&#34;comité-local---buenos-aires&#34;&gt;Comité Local - Buenos Aires&lt;/h2&gt;&#xA;&lt;p&gt;Francisco Bersetche&lt;br&gt;&#xA;Martín Maas&lt;br&gt;&#xA;Mauricio Mendiluce&lt;br&gt;&#xA;Ignacio Ojea&lt;br&gt;&#xA;Lorena Stockdale&lt;/p&gt;</description>
     </item>
     <item>
       <title>Profesores</title>
-      <link>http://localhost:1313/~esantalo14/profesores/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/profesores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/profesores/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/profesores/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Blanca Ayuso&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Sören Bartels&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Freiburg Universität&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Daniele Boffi&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Jessika Camaño&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Católica de la Santísima Concepción&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Lucia Gastaldi&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá degli Study di Brescia&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Pedro Morín&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Nacional del Litoral&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Richardo Nochetto&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;University of Maryland&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Raúl Tempone&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
