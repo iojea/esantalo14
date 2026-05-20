@@ -1,5 +1,5 @@
 ---
-title: Alojamiento
+title: "Alojamiento"
 featured_image: ''
 omit_header_text: true
 description: ""
