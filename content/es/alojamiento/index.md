@@ -13,7 +13,7 @@ menu:
 
 En Rosario los participantes estarán alojados en el [Ariston Hotel](https://www.aristonhotel.com.ar).
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-60.66950798034669%2C-32.94928082012804%2C-60.64637660980225%2C-32.93590115940883&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=16/-32.94259/-60.65794">Agrandar mapa</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-60.72006225585938%2C-32.99700251416969%2C-60.59577941894532%2C-32.88823656172555&amp;layer=mapnik&amp;marker=-32.942636261874554%2C-60.657920837402344" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-32.94264&amp;mlon=-60.65792#map=13/-32.94264/-60.65792&amp;layers=N">Agrandar mapa</a></small>
 
 Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fin a [Ariel Lombardi](mailto:ariel@fceia.unr.edu.ar). En caso de hacer la reserva directamente en el hotel, recuerden mencionar que participan de la escuela CIMPA para obtener la tarifa promocional e indicar que son extranjeros, dado que al pagar con una tarjeta de crédito extranjera no se les cobrará el IVA (VAT).
 
@@ -21,10 +21,12 @@ Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fi
 # Buenos Aires
 En Buenos Aires los participantes estarán alojados en el [Hotel Las Familias](https://www.hotellasfamilias.com/es/).
 
-En el caso de que utilicen transporte público para movilizarse hacia la Facultad las opciones son: 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-58.49464416503907%2C-34.5782457247604%2C-58.43250274658204%2C-34.52487361466116&amp;layer=mapnik&amp;marker=-34.551599294917146%2C-58.46357345581055" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-34.55160&amp;mlon=-58.46357#map=14/-34.55156/-58.46358&amp;layers=N">Agrandar mapa</a></small>
 
-+ ...
-+ ...
+<!-- En el caso de que utilicen transporte público para movilizarse hacia la Facultad las opciones son: --> 
+
+<!-- + ... -->
+<!-- + ... -->
 
 Para los profesores lamentablemente no contamos con tarifas promocionales. Los hoteles sugeridos son:
 
