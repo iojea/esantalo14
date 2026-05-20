@@ -12,6 +12,8 @@ menu:
 
 In Rosario participants will stay at [Ariston Hotel](https://www.aristonhotel.com.ar).
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-60.67573070526124%2C-32.95862557312869%2C-60.62946796417237%2C-32.931867055644275&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/-32.94525/-60.65260">View Larger Map</a></small>
+
 Speakers can make their booking at the same hotel. Alternatively, they can contact [Ariel Lombardi](mailto:ariel@fceia.unr.edu.ar). In case of dealing directly with the hotel, please remember to mention that you participate in the CIMPA school in order to get corporate fees. Also, be sure to mention that you are foreigners, as paying with a foreign credit card means you will not be charged VAT (IVA)
 
 

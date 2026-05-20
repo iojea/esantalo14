@@ -13,6 +13,8 @@ menu:
 
 En Rosario los participantes estarán alojados en el [Ariston Hotel](https://www.aristonhotel.com.ar).
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-60.67573070526124%2C-32.95862557312869%2C-60.62946796417237%2C-32.931867055644275&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/-32.94525/-60.65260">Agrandar mapa</a></small>
+
 Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fin a [Ariel Lombardi](mailto:ariel@fceia.unr.edu.ar). En caso de hacer la reserva directamente en el hotel, recuerden mencionar que participan de la escuela CIMPA para obtener la tarifa promocional e indicar que son extranjeros, dado que al pagar con una tarjeta de crédito extranjera no se les cobrará el IVA (VAT).
 
 
