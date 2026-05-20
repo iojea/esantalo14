@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://mate.dm.uba.ar/sitemap.xml
+Disallow: /

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introductory on Escuela CIMPA 2026</title>
-    <link>https://mate.dm.uba.ar/~esantalo14/tags/introductory/</link>
+    <link>http://localhost:1313/~esantalo14/tags/introductory/</link>
     <description>Recent content in Introductory on Escuela CIMPA 2026</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
-    <atom:link href="https://mate.dm.uba.ar/~esantalo14/tags/introductory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/~esantalo14/tags/introductory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Métodos Numéricos para Ecuaciones en Derivadas Parciales Aleatórias</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/cursos/tempone/tempone/</link>
+      <link>http://localhost:1313/~esantalo14/cursos/tempone/tempone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/tempone/tempone/</guid>
+      <guid>http://localhost:1313/~esantalo14/cursos/tempone/tempone/</guid>
       <description>&lt;p&gt;Muchos procesos en la ciencia y la ingeniería pueden modelarse mediante ecuaciones diferenciales parciales (EDP). Sin embargo, estos modelos suelen verse afectados por incertidumbres debidas a la falta de conocimiento, la variabilidad intrínseca del sistema o un proceso de fabricación impreciso. Estas incertidumbres podrían aparecer, por ejemplo, en las propiedades de los materiales, los términos de origen o las condiciones de contorno. El objetivo de este curso es proporcionar conocimientos básicos de las EDP aleatorias, así como varias técnicas de solución numérica eficientes para esta clase de problemas. El curso cubrirá enfoques computacionales modernos y sus fundamentos matemáticos.&lt;/p&gt;</description>
     </item>
   </channel>

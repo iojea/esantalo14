@@ -2,120 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/ayuso/ayuso/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/bartels/bartels/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/boffi/boffi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/gastaldi/gastaldi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/morin/morin/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/nochetto/nochetto/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/tempone/tempone/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/accommodation/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/accommodation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/tags/advanced/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/tags/advanced/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/categories/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/categories/"
+                href="http://localhost:1313/~esantalo14/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/categories/"
+                href="http://localhost:1313/~esantalo14/en/categories/"
                 />
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/contact/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/courses/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/courses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/tags/introductory/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/tags/introductory/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/tags/introductory/"
+                href="http://localhost:1313/~esantalo14/tags/introductory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/tags/introductory/"
+                href="http://localhost:1313/~esantalo14/en/tags/introductory/"
                 />
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/"
+                href="http://localhost:1313/~esantalo14/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/"
+                href="http://localhost:1313/~esantalo14/en/"
                 />
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/organization/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/organization/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/registration/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/registration/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/speakers/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/speakers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mate.dm.uba.ar/~esantalo14/en/tags/</loc>
+    <loc>http://localhost:1313/~esantalo14/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/tags/"
+                href="http://localhost:1313/~esantalo14/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/tags/"
+                href="http://localhost:1313/~esantalo14/en/tags/"
                 />
   </url>
 </urlset>
