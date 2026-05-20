@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introductorio on Escuela CIMPA 2026</title>
-    <link>http://localhost:1313/~esantalo14/tags/introductorio/</link>
+    <link>https://mate.dm.uba.ar/~esantalo14/tags/introductorio/</link>
     <description>Recent content in Introductorio on Escuela CIMPA 2026</description>
     <generator>Hugo</generator>
     <language>es-AR</language>
-    <atom:link href="http://localhost:1313/~esantalo14/tags/introductorio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mate.dm.uba.ar/~esantalo14/tags/introductorio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Métodos Iterativos y Estrategias de Precondicionamiento</title>
-      <link>http://localhost:1313/~esantalo14/cursos/ayuso/ayuso/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/ayuso/ayuso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/ayuso/ayuso/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/ayuso/ayuso/</guid>
       <description>&lt;p&gt;El curso presentará metodologías tanto básicas como avanzadas para el diseño y análisis de métodos iterativos y &lt;em&gt;solvers&lt;/em&gt; rápidos para la solución de sistemas lineales (y no lineales). La primera parte se centrará en técnicas clásicas para la solución de grandes sistemas lineales dispersos que surgen de discretizaciones de ecuaciones diferenciales parciales (EDP) elípticas de segundo orden. Cubriremos los métodos de descomposición de dominios y corrección subespacial, presentando la construcción y la teoría de convergencia. También se discutirán técnicas de precondicionamiento multinivel (a partir de la teoría de dos niveles) junto con un vistazo a los métodos multigrilla algebraicos (centrándose en diferencias y similitudes). Si el tiempo lo permite, también presentaremos el uso de técnicas aleatorias para la solución de sistemas enormes (densos) que surgen en algunas aplicaciones de aprendizaje automático y ciencia de datos. Esto incluye herramientas de Boceto y métodos Nystrom para núcleos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elementos Finitos Mixtos</title>
-      <link>http://localhost:1313/~esantalo14/cursos/boffi/boffi/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/boffi/boffi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/boffi/boffi/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/boffi/boffi/</guid>
       <description>&lt;p&gt;El objetivo de este curso es presentar y discutir la teoría de aproximación por elementos finitos de ecuaciones diferenciales parciales escritas en forma mixta. Este es el caso cuando las incógnitas pueden describirse mediante dos variables y la estructura del operador subyacente es la del llamado &amp;ldquo;problema de punto de silla&amp;rdquo;, análogo a los que surgen del uso de multiplicadores de Lagrange. Recordaremos las condiciones inf-sup de Brezzi y presentaremos varios ejemplos de aplicaciones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estimaciones a Posteriori y Adaptividad</title>
-      <link>http://localhost:1313/~esantalo14/cursos/morin/morin/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/morin/morin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/morin/morin/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/morin/morin/</guid>
       <description>&lt;p&gt;En este curso revisaremos la teoría de métodos adaptativos de elementos finitos. Uno de los principales ingredientes de los métodos adaptativos son los estimadores de error a posteriori. Estas son cantidades computables, dependiendo de la solución discreta calculada y los datos del problema, que proporcionan información sobre el error actual que puede usarse para aumentar localmente la resolución de la malla, con el objetivo final de reducir el error con el menor costo computacional. Presentaremos estimadores de error a posteriori para algunos problemas modelo, y también métodos adaptativos basados ​​en estos estimadores. Discutiremos los resultados de optimización de estos métodos adaptativos y presentaremos una implementación computacional simple, construyendo el código desde cero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecuaciones Diferenciales Parciales Geométricas: Teoría y Aproximación</title>
-      <link>http://localhost:1313/~esantalo14/cursos/nochetto/nochetto/</link>
+      <link>https://mate.dm.uba.ar/~esantalo14/cursos/nochetto/nochetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/~esantalo14/cursos/nochetto/nochetto/</guid>
+      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/nochetto/nochetto/</guid>
       <description>&lt;p&gt;El propósito de este curso es discutir elementos de geometría diferencial en el contexto del análisis y aproximación de ecuaciones diferenciales parciales geométricas (EDPs). Esto incluye el estudio de variaciones de funcionales con respecto a la forma y aplicaciones a varios flujos geométricos, y métodos de elementos finitos para el operador de Laplace-Beltrami. El énfasis está en las formulaciones variacionales y la aproximación.&lt;/p&gt;</description>
     </item>
   </channel>

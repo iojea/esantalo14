@@ -19,10 +19,11 @@ En el caso de que utilicen transporte público para movilizarse hacia la Faculta
 + [Google maps](https://maps.app.goo.gl/NvcWvebAGFZfZuWN8)
 + [Cómo llego Rosario](https://comollego.rosario.gob.ar/viajes/Ariston+Hotel/Facultad+de+Ciencias+Exactas+Ingenier%C3%ADa+y+Agrimensura/eyJvcmlnZW4iOnsiZ2VvbWV0cnkiOnsiY29vcmRpbmF0ZXMiOls1NDM4NDYyLjAyMjk2NjQ0NCw2MzU1Mzc4LjI3NTc4NTQzNl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJBcmlzdG9uIEhvdGVsIiwiaWQiOjU4NDJ9fSwiZGVzdGlubyI6eyJnZW9tZXRyeSI6eyJjb29yZGluYXRlcyI6WzU0NDEyMDAuNDQsNjM1MzU2NS40Nl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJGYWN1bHRhZCBkZSBDaWVuY2lhcyBFeGFjdGFzIEluZ2VuaWVyw61hIHkgQWdyaW1lbnN1cmEiLCJpZCI6MTEzMX19fQ==) 
 
+El transporte publico puede pagarse con la tarjeta [SUBE](https://www.argentina.gob.ar/sube) asi como tambien con código QR o NFC a través de una billetera virtual. 
+
 Otras opciones:
 
-+ Uber, Cabify o servicio de taxis.
-
++ Uber (ver [tarifas](https://m.uber.com/go/home?ad_id=695739686391&campaign_id=20816314553&gclid=CjwKCAjwt7XQBhBkEiwAtStpp1hIzw3M59SNE0gLr7hyzw4R7M86vcP3_KN5bJ7HYEgIZUhJdhbmvxoCkFwQAvD_BwE&kw=estimaci%C3%B3n%20uber&kwid=aud-2411558905081%3Akwd-1023641301343&marketing_vistor_id=3c9c2353-263a-485a-9cb2-b655b5b22a9c&uclick_id=5c76cd31-3d3a-489d-9da4-72bd73f07df7&utm_campaign=CM2357031-search-google-brand_8_-99_AR-National_r_web_acq_cpc_es_T1_Generic_BM_estimaci%C3%B3n%20uber_aud-2411558905081%3Akwd-1023641301343_695739686391_162969545184_b_c&utm_source=AdWords_Brand)), Cabify (ver [tarifas](https://cabify.com/ar/tarifas?_gl=1*f74pf1*_up*MQ..*_ga*MTk5ODcxNzk3MS4xNzc5MzEzNjQ3*_ga_CBCN8TT7H1*czE3NzkzMTM2NDYkbzEkZzEkdDE3NzkzMTM2NjQkajQyJGwwJGg0OTk0MTI0MTc.&)) o servicio de taxis.
 
 Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fin a [Ariel Lombardi](mailto:ariel@fceia.unr.edu.ar). En caso de hacer la reserva directamente en el hotel, recuerden mencionar que participan de la escuela CIMPA para obtener la tarifa promocional e indicar que son extranjeros, dado que al pagar con una tarjeta de crédito extranjera no se les cobrará el IVA (VAT).
 
@@ -36,9 +37,11 @@ En el caso de que utilicen transporte público para movilizarse hacia la Faculta
 
 + [Google maps](https://maps.app.goo.gl/eycWAgeePNN21U9X7?g_st=aw)
 
+El transporte publico puede pagarse con la tarjeta [SUBE](https://www.argentina.gob.ar/sube) asi como tambien con código QR o NFC a través de una billetera virtual.
+
 Otras opciones:
 
-+ Uber, Cabify o servicio de taxis.
++ Uber (ver [tarifas](https://m.uber.com/go/home?ad_id=695739686391&campaign_id=20816314553&gclid=CjwKCAjwt7XQBhBkEiwAtStpp1hIzw3M59SNE0gLr7hyzw4R7M86vcP3_KN5bJ7HYEgIZUhJdhbmvxoCkFwQAvD_BwE&kw=estimaci%C3%B3n%20uber&kwid=aud-2411558905081%3Akwd-1023641301343&marketing_vistor_id=3c9c2353-263a-485a-9cb2-b655b5b22a9c&uclick_id=5c76cd31-3d3a-489d-9da4-72bd73f07df7&utm_campaign=CM2357031-search-google-brand_8_-99_AR-National_r_web_acq_cpc_es_T1_Generic_BM_estimaci%C3%B3n%20uber_aud-2411558905081%3Akwd-1023641301343_695739686391_162969545184_b_c&utm_source=AdWords_Brand)), Cabify (ver [tarifas](https://cabify.com/ar/tarifas?_gl=1*f74pf1*_up*MQ..*_ga*MTk5ODcxNzk3MS4xNzc5MzEzNjQ3*_ga_CBCN8TT7H1*czE3NzkzMTM2NDYkbzEkZzEkdDE3NzkzMTM2NjQkajQyJGwwJGg0OTk0MTI0MTc.&))o servicio de taxis.
 + [Sistema de bicicletas públicas](https://www.baecobici.com.ar/) 
 
 Para los profesores lamentablemente no contamos con tarifas promocionales. Los hoteles sugeridos son:
