@@ -21,6 +21,11 @@ Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fi
 # Buenos Aires
 En Buenos Aires los participantes estarán alojados en el [Hotel Las Familias](https://www.hotellasfamilias.com/es/).
 
+En el caso de que utilicen transporte público para movilizarse hacia la Facultad las opciones son: 
+
++ ...
++ ...
+
 Para los profesores lamentablemente no contamos con tarifas promocionales. Los hoteles sugeridos son:
 
 + [Pampa Plaza Hotel](https://hotelpampaplaza.com.ar): ubicado a 5 minutos de caminata de la Facultad.
