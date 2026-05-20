@@ -26,7 +26,7 @@ Regretfully we cannot offer corporate fees for speakers. We suggest the followin
 + [Pampa Plaza Hotel](https://hotelpampaplaza.com.ar): 5 minutes walk from the Faculty.
 + [LM Hotel](https://lm-hoteles.com.ar): more expensive. 10 minutes from the Faculty. 
 
-Another good options frecuently used by visitors (all of them around 25 minutes from the Faulty) are:
+Another good options frecuently used by visitors (all of them around 25 minutes from the Faculty) are:
 + [Hotel Ker](https://www.kerhoteles.com.ar/belgrano)
 + [Hotel Sarum](https://www.hotelsarum.com.ar)
 + [Hotel Pedraza](https://www.hotelpedraza.com)
