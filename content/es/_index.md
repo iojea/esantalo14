@@ -25,3 +25,5 @@ Se dictarán ocho cursos, cuatro durante la primera semana (Rosario) y otros cua
 ![logo](images/logo-bicocca.jpg)
 
 ![verywidelogo](images/fundacen.png)
+
+![logo](images/logo-asamaci.jpg)

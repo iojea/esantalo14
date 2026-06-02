@@ -25,7 +25,7 @@ featured_image: '/images/patioinfinito.jpg'
 <td>10:30</td><td>Recreo</td><td>Recreo</td><td>Recreo</td><td>Recreo</td><td>Recreo</td>
 </tr>
 <tr>
-<td>11:00</td><td>Ayuso</td><td>Ayuso</td><td>Ayuso</td><td>Ayuso</td><td>Mesa Redonda*</td>
+<td>11:00</td><td>Nochetto</td><td>Nochetto</td><td>Nochetto</td><td>Nochetto</td><td>Mesa Redonda*</td>
 </tr>
 <tr>
 <td>12.30</td><td>Almuerzo</td><td>Almuerzo</td><td>Almuerzo</td><td>Almuerzo</td><td>Almuerzo</td>
@@ -37,7 +37,7 @@ featured_image: '/images/patioinfinito.jpg'
 <td>15:30</td><td>Recreo</td><td>Recreo</td><td>Recreo</td><td>Recreo</td>
 </tr>
 <tr>
-<td>16:00</td><td>Nochetto</td><td>Nochetto</td><td>Nochetto</td><td>Nochetto</td>
+<td>16:00</td><td>Ayuso</td><td>Ayuso</td><td>Ayuso</td><td>Ayuso</td>
 </tr>
 </table>
 </div>

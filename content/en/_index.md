@@ -30,3 +30,5 @@ advanced. Each course will include 4 lectures, each lasting 1 hour and 30 minute
 ![logo](../images/logo-bicocca.jpg)
 
 ![verywidelogo](../images/fundacen.png)
+
+![logo](../images/logo-asamaci.jpg)
