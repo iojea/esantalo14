@@ -42,6 +42,15 @@ featured_image: '/images/patioinfinito.jpg'
 </table>
 </div>
 
+<div style="font-size:medium">
+&nbsp;
+<p style="line-height:10%">
+Aula: 23 (FCEIA) </p><p style="line-height:10%">
+Laboratorio: a confirmar
+</p>
+&nbsp;
+</div>
+
 
 ### Semana \#2 - Universidad de Buenos Aires
 
@@ -85,6 +94,16 @@ featured_image: '/images/patioinfinito.jpg'
 </tr>
 </table>
 </div>
+
+<div style="font-size:medium">
+&nbsp;
+<p style="line-height:10%">
+Aula: 1402 (Pabellón 0+inf) </p><p style="line-height:10%">
+Laboratorio: 1108 (Pabellón 0+inf)
+</p>
+&nbsp;
+</div>
+
 
 <div style="font-size:small">
 &nbsp;

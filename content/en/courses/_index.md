@@ -42,6 +42,14 @@ featured_image: '/images/patioinfinito.jpg'
 </table>
 </div>
 
+<div style="font-size:medium">
+&nbsp;
+<p style="line-height:10%">
+Classroom: 23 (FCEIA) </p><p style="line-height:10%">
+Laboratory: To be confirmed
+</p>
+&nbsp;
+</div>
 
 ### Week \#2 - Universidad de Buenos Aires
 
@@ -85,6 +93,16 @@ featured_image: '/images/patioinfinito.jpg'
 </tr>
 </table>
 </div>
+
+<div style="font-size:medium">
+&nbsp;
+<p style="line-height:10%">
+Classroom: 1402 (Building 0+inf) </p><p style="line-height:10%">
+Laboratory: 1108 (Building 0+inf)
+</p>
+&nbsp;
+</div>
+
 
 <div style="font-size:small">
 &nbsp;
