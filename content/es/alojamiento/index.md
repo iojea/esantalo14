@@ -27,6 +27,13 @@ Otras opciones:
 
 Los profesores pueden hacer su reserva en el mismo hotel o contactar para tal fin a [Ariel Lombardi](mailto:ariel@fceia.unr.edu.ar). En caso de hacer la reserva directamente en el hotel, recuerden mencionar que participan de la escuela CIMPA para obtener la tarifa promocional e indicar que son extranjeros, dado que al pagar con una tarjeta de crédito extranjera no se les cobrará el IVA (VAT).
 
+## Turismo
+
+Algunos recursos útiles para aprovechar el tiempo libre:
+
+- [¿Qué hacer en Rosario?](https://rosario.tur.ar/que-hacer/rosario-en/24-horas)
+- [Agenda cultural](https://www.rosario.gob.ar/inicio/agenda)
+  
 
 # Buenos Aires
 En Buenos Aires los participantes estarán alojados en el [Hotel Las Familias](https://www.hotellasfamilias.com/es/).
@@ -55,3 +62,9 @@ Otras opciones utilizadas con frecuencia por visitantes son y ubicadas a unos 25
 + [Hotel Pedraza](https://www.hotelpedraza.com)
 
 En todos los casos, es importante mencionar que son extranjeros dado que al pagar con tarjeta de crédito extranjera no se les cobrará el IVA (VAT).
+
+## Turismo
+
+Algunos recursos útiles para aprovechar el tiempo libre:
+
+- [Turismo BA](https://turismo.buenosaires.gob.ar/es)
