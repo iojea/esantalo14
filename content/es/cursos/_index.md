@@ -16,7 +16,10 @@ featured_image: '/images/patioinfinito.jpg'
 </tr>
 </thead>
 <tr>
-<td>08:00</td><td>Registro</td><td colspan=4></td>
+<td>08:00</td><td>Registro</td><td colspan=4 rowspan=2></td>
+</tr>
+<tr>
+<td>08:30</td><td>Acto Inaugural</td>
 </tr>
 <tr>
 <td>09:00</td><td>Morín</td><td>Morín</td><td>Morín</td><td>Morín</td><td>Morín</td>

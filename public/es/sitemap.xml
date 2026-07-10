@@ -47,13 +47,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/"
+                hreflang="es-AR"
+                href="https://mate.dm.uba.ar/~esantalo14/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/"
+                hreflang="en-US"
+                href="https://mate.dm.uba.ar/~esantalo14/en/"
                 />
   </url><url>
     <loc>https://mate.dm.uba.ar/~esantalo14/tags/avanzado/</loc>
@@ -65,13 +65,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/categories/"
+                hreflang="es-AR"
+                href="https://mate.dm.uba.ar/~esantalo14/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/categories/"
+                hreflang="en-US"
+                href="https://mate.dm.uba.ar/~esantalo14/en/categories/"
                 />
   </url><url>
     <loc>https://mate.dm.uba.ar/~esantalo14/contacto/</loc>
@@ -95,13 +95,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/tags/introductory/"
+                hreflang="es-AR"
+                href="https://mate.dm.uba.ar/~esantalo14/tags/introductory/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/tags/introductory/"
+                hreflang="en-US"
+                href="https://mate.dm.uba.ar/~esantalo14/en/tags/introductory/"
                 />
   </url><url>
     <loc>https://mate.dm.uba.ar/~esantalo14/organizacion/</loc>
@@ -117,13 +117,13 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
-                href="https://mate.dm.uba.ar/~esantalo14/en/tags/"
+                hreflang="es-AR"
+                href="https://mate.dm.uba.ar/~esantalo14/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-AR"
-                href="https://mate.dm.uba.ar/~esantalo14/tags/"
+                hreflang="en-US"
+                href="https://mate.dm.uba.ar/~esantalo14/en/tags/"
                 />
   </url>
 </urlset>

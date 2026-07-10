@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Advanzado on Escuela CIMPA 2026</title>
-    <link>https://mate.dm.uba.ar/~esantalo14/tags/advanzado/</link>
-    <description>Recent content in Advanzado on Escuela CIMPA 2026</description>
-    <generator>Hugo</generator>
-    <language>es-AR</language>
-    <atom:link href="https://mate.dm.uba.ar/~esantalo14/tags/advanzado/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estimaciones de Error para la Aproximación de Problemas no-suaves.</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</guid>
-      <description>&lt;p&gt;Varias aplicaciones modernas, incluido el procesamiento matemático de imágenes y el modelado de fracturas, requieren el uso de funcionales no diferenciables. Su solución numérica mediante métodos estándar de elementos finitos conduce a tasas de convergencia subóptimas. El curso analiza el uso de métodos de elementos finitos discontinuos y no conformes y proporciona estimaciones de error cuasióptimas. Estos se obtienen utilizando relaciones de dualidad convexas discretas apropiadas e identificando condiciones de regularidad adecuadas. Las técnicas se aplican a una gran clase de problemas de minimización convexa y conducen a una fórmula de posprocesamiento que proporciona la solución del problema dual discreto a través de la solución no conforme del problema primario discreto. Las aproximaciones dan lugar a la definición de un estimador de error de brecha dual primal. Utilizando la estructura particular de la variable dual discreta identificamos una fórmula de monotonicidad que nos permite establecer propiedades de eficiencia del estimador para una clase de problemas de Dirichlet no lineales.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Métodos de Elementos Finitos Mixtos en Espacios de Banach para Problemas no lineales de Mecánica de Fluidos</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</guid>
-      <description>&lt;p&gt;En este curso presentamos un enfoque basado en espacios de Banach para estudiar formulaciones mixtas de problemas no lineales. Proporcionamos una descripción general del estado actual del arte y los avances recientes en el área, enfocándonos en la resolución de sistemas no lineales en forma mixta. Específicamente, aplicamos este enfoque para analizar métodos mixtos de elementos finitos para el problema de Navier-Stokes y para el problema magnetohidrodinámico estacionario incompresible.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Advanzado on Escuela CIMPA 2026</title>
+		<link>https://mate.dm.uba.ar/~esantalo14/tags/advanzado/</link>
+		<description>Recent content in Advanzado on Escuela CIMPA 2026</description>
+		<generator>Hugo</generator>
+		<language>es-AR</language>
+		
+		
+		
+		
+			<atom:link href="https://mate.dm.uba.ar/~esantalo14/tags/advanzado/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Estimaciones de Error para la Aproximación de Problemas no-suaves.</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/cursos/bartels/bartels/</guid>
+				<description>&lt;p&gt;Varias aplicaciones modernas, incluido el procesamiento matemático de imágenes y el modelado de fracturas, requieren el uso de funcionales no diferenciables. Su solución numérica mediante métodos estándar de elementos finitos conduce a tasas de convergencia subóptimas. El curso analiza el uso de métodos de elementos finitos discontinuos y no conformes y proporciona estimaciones de error cuasióptimas. Estos se obtienen utilizando relaciones de dualidad convexas discretas apropiadas e identificando condiciones de regularidad adecuadas. Las técnicas se aplican a una gran clase de problemas de minimización convexa y conducen a una fórmula de posprocesamiento que proporciona la solución del problema dual discreto a través de la solución no conforme del problema primario discreto. Las aproximaciones dan lugar a la definición de un estimador de error de brecha dual primal. Utilizando la estructura particular de la variable dual discreta identificamos una fórmula de monotonicidad que nos permite establecer propiedades de eficiencia del estimador para una clase de problemas de Dirichlet no lineales.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Métodos de Elementos Finitos Mixtos en Espacios de Banach para Problemas no lineales de Mecánica de Fluidos</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/cursos/cama%C3%B1o/cama%C3%B1o/</guid>
+				<description>&lt;p&gt;En este curso presentamos un enfoque basado en espacios de Banach para estudiar formulaciones mixtas de problemas no lineales. Proporcionamos una descripción general del estado actual del arte y los avances recientes en el área, enfocándonos en la resolución de sistemas no lineales en forma mixta. Específicamente, aplicamos este enfoque para analizar métodos mixtos de elementos finitos para el problema de Navier-Stokes y para el problema magnetohidrodinámico estacionario incompresible.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

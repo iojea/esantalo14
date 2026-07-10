@@ -1,102 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Numerical Analysis and PDEs on CIMPA School 2026</title>
-    <link>https://mate.dm.uba.ar/~esantalo14/en/</link>
-    <description>Recent content in Numerical Analysis and PDEs on CIMPA School 2026</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <atom:link href="https://mate.dm.uba.ar/~esantalo14/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Iterative Methods and Preconditioning Strategies</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</guid>
-      <description>&lt;p&gt;The course will present both basic and state of the art methodologies for the design and analysis of iterative methods and fast solvers forthe solution of linear (and non-linear) systems. The first part will focus on classical techniques for the solution of large sparse linear systems arising from discretizations of second order elliptic partial differential equations (PDEs). We will cover domain decomposition and subspace correction methods, presenting the construction and convergence theory. Multilevel preconditioning techniques will be also discussed (starting from the two-level theory) together with a glimpse on Algebraic Multigrid methods (focusing on differences and similarities). If time allows, we will also present the use of Randomized techniques for the solution of the huge (dense) systems arising in some Machine Learning and Data Science applications. This includes Sketching tools and Nystrom methods for Kernel methods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Error Estimates for the Approximation of nonsmooth Problems</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</guid>
-      <description>&lt;p&gt;Various modern applications including mathematical image processing and fracture modeling require the use of nondifferentiable functionals. Their numerical solution by standard finite element methods leads to suboptimal convergence rates. The talk discusses the use of nonconforming and discontinuous finite element methods and provides quasioptimal error estimates. These are obtained by using appropriate discrete convex duality relations and&#xA;identifying suitable regularity conditions. The techniques apply to a large class of convex minimization problems and lead to a postprocessing formula that provides the solution of the discrete dual problem via the nonconforming solution of the discrete primal problem. The approximations give rise to the definition of a primal-dual gap error estimator. Using the particular structure of the discrete dual variable we identify a monotonicity formula that allows us to establish efficiency properties of the estimator for a class of nonlinear Dirichlet problems.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mixed Finite Elements</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</guid>
-      <description>&lt;p&gt;The aim of this course is to introduce and discuss the theory of the finite element approximation of partial differential equations written in mixed form. This is the case when the unknowns can be described by two variables and the structure of the underlying operator is the one of a so called &amp;ldquo;saddle point problem&amp;rdquo; analogous to those arising from the use of Lagrange multipliers. We will recall the Brezzi inf-sup conditions and we will present several examples of applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Banach spaces-based Mixed Finite Element Method for nonlinear Problems in Fluid Mechanic</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</guid>
-      <description>&lt;p&gt;In this course we introduce a Banach-spaces based approach to study mixed formulations of nonlinear problems. We provide an overview of the current state of the art and recent advancements in this area, focusing on solving nonlinear systems in mixed form. Specifically, we apply this approach to analyze mixed finite element methods for the Navier-Stokes problem and for the stationary incompressible magnetohydrodynamic problem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Finite Element Approximation of Eigenvalue Problems</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</guid>
-      <description>&lt;p&gt;In this course we will introduce the students to the numerical analysis of eigenvalue problems associated with partial differential equations. Starting from easy numerical toy problems, we will show that in the case of standard elliptic equations any numerical scheme working well for the source problem can be applied successfully to the corresponding eigenvalue problem. This is not the case when eigenvalue problems in mixed form are considered. In this situation the classic inf-sup conditions are neither sufficient nor necessary for the correct approximation of the spectrum. We will describe the differences with examples and counterexamples.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Posteriori Error Estimation and Adaptivity</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</guid>
-      <description>&lt;p&gt;In this course we will review the theory of adaptive finite element methods. One of the main ingredients of adaptive methods are a posteriori error estimators. These are computable quantities, depending on the computed discrete solution and the problem data, which provide information about the current error that can be used to locally increase the resolution of the mesh, with the ultimate goal of reducing the error with the least computational cost. We will present a posteriori error estimators for some model problems, and also adaptive methods based on these estimators. We will discuss optimality results for these adaptive methods, and will present a simple computational implementation, building the code from scratch.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Geometric Partial Differential Equations: Theory and Approximation</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</guid>
-      <description>&lt;p&gt;The purpose of this course is to discuss elements of differential geometry in the context of analysis and approximation of geometric partial differential equations (PDEs). This includes the study of variations of functionals with respect to shape and applications to several geometric flows, and finite element methods for the Laplace-Beltrami operator. The emphasis is on variational formulations and approximation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Numerical Methods for Random Partial Differential Equations</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</guid>
-      <description>&lt;p&gt;Many processes across science and engineering can be modelled by partial differential equations (PDEs). However, these PDE models are often affected by uncertainties due to a lack of knowledge, intrinsic variability in the system, or an imprecise manufacturing process. These uncertainties could appear for instance in material properties, source terms, or boundary conditions. The goal of this course is to provide basic knowledge of the random PDEs as well as various efficient numerical solution techniques for this class of problems. The course will cover modern computational approaches and their mathematical foundations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accommodation</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/accommodation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/accommodation/</guid>
-      <description>&lt;h1 id=&#34;rosario&#34;&gt;Rosario&lt;/h1&gt;&#xA;&lt;p&gt;In Rosario participants will stay at &lt;a href=&#34;https://www.aristonhotel.com.ar&#34;&gt;Ariston Hotel&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe width=&#34;425&#34; height=&#34;350&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=-60.72006225585938%2C-32.99700251416969%2C-60.59577941894532%2C-32.88823656172555&amp;amp;layer=mapnik&amp;amp;marker=-32.942636261874554%2C-60.657920837402344&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?mlat=-32.94264&amp;amp;mlon=-60.65792#map=13/-32.94264/-60.65792&amp;amp;layers=N&#34;&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;&#xA;&lt;p&gt;If you use public transport to get to the Faculty, the options are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://maps.app.goo.gl/NvcWvebAGFZfZuWN8&#34;&gt;Google maps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://comollego.rosario.gob.ar/viajes/Ariston&amp;#43;Hotel/Facultad&amp;#43;de&amp;#43;Ciencias&amp;#43;Exactas&amp;#43;Ingenier%C3%ADa&amp;#43;y&amp;#43;Agrimensura/eyJvcmlnZW4iOnsiZ2VvbWV0cnkiOnsiY29vcmRpbmF0ZXMiOls1NDM4NDYyLjAyMjk2NjQ0NCw2MzU1Mzc4LjI3NTc4NTQzNl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJBcmlzdG9uIEhvdGVsIiwiaWQiOjU4NDJ9fSwiZGVzdGlubyI6eyJnZW9tZXRyeSI6eyJjb29yZGluYXRlcyI6WzU0NDEyMDAuNDQsNjM1MzU2NS40Nl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJGYWN1bHRhZCBkZSBDaWVuY2lhcyBFeGFjdGFzIEluZ2VuaWVyw61hIHkgQWdyaW1lbnN1cmEiLCJpZCI6MTEzMX19fQ==&#34;&gt;Cómo llego Rosario&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Public transport can be paid for with the &lt;a href=&#34;https://www.argentina.gob.ar/sube&#34;&gt;SUBE&lt;/a&gt; card as well as with QR code or NFC through a virtual wallet.&lt;/p&gt;&#xA;&lt;p&gt;Other options:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uber (see &lt;a href=&#34;https://m.uber.com/go/home?ad_id=695739686391&amp;amp;campaign_id=20816314553&amp;amp;gclid=CjwKCAjwt7XQBhBkEiwAtStpp1hIzw3M59SNE0gLr7hyzw4R7M86vcP3_KN5bJ7HYEgIZUhJdhbmvxoCkFwQAvD_BwE&amp;amp;kw=estimaci%C3%B3n%20uber&amp;amp;kwid=aud-2411558905081%3Akwd-1023641301343&amp;amp;marketing_vistor_id=3c9c2353-263a-485a-9cb2-b655b5b22a9c&amp;amp;uclick_id=5c76cd31-3d3a-489d-9da4-72bd73f07df7&amp;amp;utm_campaign=CM2357031-search-google-brand_8_-99_AR-National_r_web_acq_cpc_es_T1_Generic_BM_estimaci%C3%B3n%20uber_aud-2411558905081%3Akwd-1023641301343_695739686391_162969545184_b_c&amp;amp;utm_source=AdWords_Brand&#34;&gt;rates&lt;/a&gt;), Cabify (see &lt;a href=&#34;https://cabify.com/ar/tarifas?_gl=1*f74pf1*_up*MQ..*_ga*MTk5ODcxNzk3MS4xNzc5MzEzNjQ3*_ga_CBCN8TT7H1*czE3NzkzMTM2NDYkbzEkZzEkdDE3NzkzMTM2NjQkajQyJGwwJGg0OTk0MTI0MTc.&amp;amp;&#34;&gt;rates&lt;/a&gt;) or taxi service.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Speakers can make their booking at the same hotel. Alternatively, they can contact &lt;a href=&#34;mailto:ariel@fceia.unr.edu.ar&#34;&gt;Ariel Lombardi&lt;/a&gt;. In case of dealing directly with the hotel, please remember to mention that you participate in the CIMPA school in order to get corporate fees. Also, be sure to mention that you are foreigners, as paying with a foreign credit card means you will not be charged VAT (IVA)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/contact/</guid>
-      <description>&lt;p&gt;You can write to the Organizing Committee at &lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;&lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;esantalo14@dm.uba.ar&lt;/a&gt;&lt;/a&gt; or you can fill the following form.&lt;/p&gt;&#xA;&lt;!-- modify this form HTML and place wherever you want your form --&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xrbejbak&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      An email address is required.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xA;&#xA;&lt;/form&gt;</description>
-    </item>
-    <item>
-      <title>Organization</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/organization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/organization/</guid>
-      <description>&lt;h2 id=&#34;coordinators&#34;&gt;Coordinators&lt;/h2&gt;&#xA;&lt;p&gt;Gabriel Acosta (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Sören Bartels  (&lt;em&gt;University of Freiburg&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h2&gt;&#xA;&lt;p&gt;Gabriela  Armentano (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Blanca Ayuso  (&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;)&lt;br&gt;&#xA;Juan Pablo Borthagaray (&lt;em&gt;Universidad de la República&lt;/em&gt;)&lt;br&gt;&#xA;Malena Español (&lt;em&gt;Arizona State University&lt;/em&gt;)&lt;br&gt;&#xA;Ariel Lombardi (&lt;em&gt;Universidad Nacional de Rosario&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;local-committee---rosario&#34;&gt;Local Committee - Rosario&lt;/h2&gt;&#xA;&lt;p&gt;María Evangelina Álvarez&lt;br&gt;&#xA;Melani Barrios&lt;br&gt;&#xA;Nahuel Carusso&lt;br&gt;&#xA;Eugenio Della Vecchia&lt;br&gt;&#xA;Elina Mancinelli&lt;br&gt;&#xA;Lucía Moroni&lt;br&gt;&#xA;Cecilia Penessi&lt;br&gt;&#xA;Sabrina Roscani&lt;/p&gt;&#xA;&lt;h2 id=&#34;local-committee---buenos-aires&#34;&gt;Local Committee - Buenos Aires&lt;/h2&gt;&#xA;&lt;p&gt;Francisco Bersetche&lt;br&gt;&#xA;Martín Maas&lt;br&gt;&#xA;Mauricio Mendiluce&lt;br&gt;&#xA;Ignacio Ojea&lt;br&gt;&#xA;Lorena Stockdale&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Registration</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/registration/</guid>
-      <description>&lt;p&gt;Registration is managed by CIMPA. Please follow the link below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;https://applications.cimpa.info&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Registration Deadline: &lt;strong&gt;March 18, 2026&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Speakers</title>
-      <link>https://mate.dm.uba.ar/~esantalo14/en/speakers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mate.dm.uba.ar/~esantalo14/en/speakers/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Blanca Ayuso&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Sören Bartels&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;University of Freiburg&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Daniele Boffi&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Jessika Camaño&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Católica de la Santísima Concepción&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Lucia Gastaldi&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá degli Study di Brescia&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Pedro Morín&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Nacional del Litoral&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Richardo Nochetto&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;University of Maryland&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Raúl Tempone&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Numerical Analysis and PDEs on CIMPA School 2026</title>
+		<link>https://mate.dm.uba.ar/~esantalo14/en/</link>
+		<description>Recent content in Numerical Analysis and PDEs on CIMPA School 2026</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="https://mate.dm.uba.ar/~esantalo14/en/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Iterative Methods and Preconditioning Strategies</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/ayuso/ayuso/</guid>
+				<description>&lt;p&gt;The course will present both basic and state of the art methodologies for the design and analysis of iterative methods and fast solvers forthe solution of linear (and non-linear) systems. The first part will focus on classical techniques for the solution of large sparse linear systems arising from discretizations of second order elliptic partial differential equations (PDEs). We will cover domain decomposition and subspace correction methods, presenting the construction and convergence theory. Multilevel preconditioning techniques will be also discussed (starting from the two-level theory) together with a glimpse on Algebraic Multigrid methods (focusing on differences and similarities). If time allows, we will also present the use of Randomized techniques for the solution of the huge (dense) systems arising in some Machine Learning and Data Science applications. This includes Sketching tools and Nystrom methods for Kernel methods.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Error Estimates for the Approximation of nonsmooth Problems</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/bartels/bartels/</guid>
+				<description>&lt;p&gt;Various modern applications including mathematical image processing and fracture modeling require the use of nondifferentiable functionals. Their numerical solution by standard finite element methods leads to suboptimal convergence rates. The talk discusses the use of nonconforming and discontinuous finite element methods and provides quasioptimal error estimates. These are obtained by using appropriate discrete convex duality relations and&#xA;identifying suitable regularity conditions. The techniques apply to a large class of convex minimization problems and lead to a postprocessing formula that provides the solution of the discrete dual problem via the nonconforming solution of the discrete primal problem. The approximations give rise to the definition of a primal-dual gap error estimator. Using the particular structure of the discrete dual variable we identify a monotonicity formula that allows us to establish efficiency properties of the estimator for a class of nonlinear Dirichlet problems.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mixed Finite Elements</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/boffi/boffi/</guid>
+				<description>&lt;p&gt;The aim of this course is to introduce and discuss the theory of the finite element approximation of partial differential equations written in mixed form. This is the case when the unknowns can be described by two variables and the structure of the underlying operator is the one of a so called &amp;ldquo;saddle point problem&amp;rdquo; analogous to those arising from the use of Lagrange multipliers. We will recall the Brezzi inf-sup conditions and we will present several examples of applications.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Banach spaces-based Mixed Finite Element Method for nonlinear Problems in Fluid Mechanic</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/cama%C3%B1o/cama%C3%B1o/</guid>
+				<description>&lt;p&gt;In this course we introduce a Banach-spaces based approach to study mixed formulations of nonlinear problems. We provide an overview of the current state of the art and recent advancements in this area, focusing on solving nonlinear systems in mixed form. Specifically, we apply this approach to analyze mixed finite element methods for the Navier-Stokes problem and for the stationary incompressible magnetohydrodynamic problem.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Finite Element Approximation of Eigenvalue Problems</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/gastaldi/gastaldi/</guid>
+				<description>&lt;p&gt;In this course we will introduce the students to the numerical analysis of eigenvalue problems associated with partial differential equations. Starting from easy numerical toy problems, we will show that in the case of standard elliptic equations any numerical scheme working well for the source problem can be applied successfully to the corresponding eigenvalue problem. This is not the case when eigenvalue problems in mixed form are considered. In this situation the classic inf-sup conditions are neither sufficient nor necessary for the correct approximation of the spectrum. We will describe the differences with examples and counterexamples.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Posteriori Error Estimation and Adaptivity</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/morin/morin/</guid>
+				<description>&lt;p&gt;In this course we will review the theory of adaptive finite element methods. One of the main ingredients of adaptive methods are a posteriori error estimators. These are computable quantities, depending on the computed discrete solution and the problem data, which provide information about the current error that can be used to locally increase the resolution of the mesh, with the ultimate goal of reducing the error with the least computational cost. We will present a posteriori error estimators for some model problems, and also adaptive methods based on these estimators. We will discuss optimality results for these adaptive methods, and will present a simple computational implementation, building the code from scratch.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Geometric Partial Differential Equations: Theory and Approximation</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/nochetto/nochetto/</guid>
+				<description>&lt;p&gt;The purpose of this course is to discuss elements of differential geometry in the context of analysis and approximation of geometric partial differential equations (PDEs). This includes the study of variations of functionals with respect to shape and applications to several geometric flows, and finite element methods for the Laplace-Beltrami operator. The emphasis is on variational formulations and approximation.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Numerical Methods for Random Partial Differential Equations</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/courses/tempone/tempone/</guid>
+				<description>&lt;p&gt;Many processes across science and engineering can be modelled by partial differential equations (PDEs). However, these PDE models are often affected by uncertainties due to a lack of knowledge, intrinsic variability in the system, or an imprecise manufacturing process. These uncertainties could appear for instance in material properties, source terms, or boundary conditions. The goal of this course is to provide basic knowledge of the random PDEs as well as various efficient numerical solution techniques for this class of problems. The course will cover modern computational approaches and their mathematical foundations.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Accommodation</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/accommodation/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/accommodation/</guid>
+				<description>&lt;h1 id=&#34;rosario&#34;&gt;Rosario&lt;/h1&gt;&#xA;&lt;p&gt;In Rosario participants will stay at &lt;a href=&#34;https://www.aristonhotel.com.ar&#34;&gt;Ariston Hotel&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe width=&#34;425&#34; height=&#34;350&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=-60.72006225585938%2C-32.99700251416969%2C-60.59577941894532%2C-32.88823656172555&amp;amp;layer=mapnik&amp;amp;marker=-32.942636261874554%2C-60.657920837402344&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?mlat=-32.94264&amp;amp;mlon=-60.65792#map=13/-32.94264/-60.65792&amp;amp;layers=N&#34;&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;&#xA;&lt;p&gt;If you use public transport to get to the Faculty, the options are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://maps.app.goo.gl/NvcWvebAGFZfZuWN8&#34;&gt;Google maps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://comollego.rosario.gob.ar/viajes/Ariston&amp;#43;Hotel/Facultad&amp;#43;de&amp;#43;Ciencias&amp;#43;Exactas&amp;#43;Ingenier%C3%ADa&amp;#43;y&amp;#43;Agrimensura/eyJvcmlnZW4iOnsiZ2VvbWV0cnkiOnsiY29vcmRpbmF0ZXMiOls1NDM4NDYyLjAyMjk2NjQ0NCw2MzU1Mzc4LjI3NTc4NTQzNl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJBcmlzdG9uIEhvdGVsIiwiaWQiOjU4NDJ9fSwiZGVzdGlubyI6eyJnZW9tZXRyeSI6eyJjb29yZGluYXRlcyI6WzU0NDEyMDAuNDQsNjM1MzU2NS40Nl0sInR5cGUiOiJQb2ludCJ9LCJwcm9wZXJ0aWVzIjp7Im5hbWUiOiJGYWN1bHRhZCBkZSBDaWVuY2lhcyBFeGFjdGFzIEluZ2VuaWVyw61hIHkgQWdyaW1lbnN1cmEiLCJpZCI6MTEzMX19fQ==&#34;&gt;Cómo llego Rosario&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Public transport can be paid for with the &lt;a href=&#34;https://www.argentina.gob.ar/sube&#34;&gt;SUBE&lt;/a&gt; card as well as with QR code or NFC through a virtual wallet.&lt;/p&gt;&#xA;&lt;p&gt;Other options:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uber (see &lt;a href=&#34;https://m.uber.com/go/home?ad_id=695739686391&amp;amp;campaign_id=20816314553&amp;amp;gclid=CjwKCAjwt7XQBhBkEiwAtStpp1hIzw3M59SNE0gLr7hyzw4R7M86vcP3_KN5bJ7HYEgIZUhJdhbmvxoCkFwQAvD_BwE&amp;amp;kw=estimaci%C3%B3n%20uber&amp;amp;kwid=aud-2411558905081%3Akwd-1023641301343&amp;amp;marketing_vistor_id=3c9c2353-263a-485a-9cb2-b655b5b22a9c&amp;amp;uclick_id=5c76cd31-3d3a-489d-9da4-72bd73f07df7&amp;amp;utm_campaign=CM2357031-search-google-brand_8_-99_AR-National_r_web_acq_cpc_es_T1_Generic_BM_estimaci%C3%B3n%20uber_aud-2411558905081%3Akwd-1023641301343_695739686391_162969545184_b_c&amp;amp;utm_source=AdWords_Brand&#34;&gt;rates&lt;/a&gt;), Cabify (see &lt;a href=&#34;https://cabify.com/ar/tarifas?_gl=1*f74pf1*_up*MQ..*_ga*MTk5ODcxNzk3MS4xNzc5MzEzNjQ3*_ga_CBCN8TT7H1*czE3NzkzMTM2NDYkbzEkZzEkdDE3NzkzMTM2NjQkajQyJGwwJGg0OTk0MTI0MTc.&amp;amp;&#34;&gt;rates&lt;/a&gt;) or taxi service.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Speakers can make their booking at the same hotel. Alternatively, they can contact &lt;a href=&#34;mailto:ariel@fceia.unr.edu.ar&#34;&gt;Ariel Lombardi&lt;/a&gt;. In case of dealing directly with the hotel, please remember to mention that you participate in the CIMPA school in order to get corporate fees. Also, be sure to mention that you are foreigners, as paying with a foreign credit card means you will not be charged VAT (IVA)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/contact/</guid>
+				<description>&lt;p&gt;You can write to the Organizing Committee at &lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;&lt;a href=&#34;mailto:esantalo14@dm.uba.ar&#34;&gt;esantalo14@dm.uba.ar&lt;/a&gt;&lt;/a&gt; or you can fill the following form.&lt;/p&gt;&#xA;&lt;!-- modify this form HTML and place wherever you want your form --&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/xrbejbak&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      An email address is required.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xA;&#xA;&lt;/form&gt;</description>
+			</item>
+			<item>
+				<title>Organization</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/organization/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/organization/</guid>
+				<description>&lt;h2 id=&#34;coordinators&#34;&gt;Coordinators&lt;/h2&gt;&#xA;&lt;p&gt;Gabriel Acosta (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Sören Bartels  (&lt;em&gt;University of Freiburg&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h2&gt;&#xA;&lt;p&gt;Gabriela  Armentano (&lt;em&gt;Universidad de Buenos Aires&lt;/em&gt;)&lt;br&gt;&#xA;Blanca Ayuso  (&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;)&lt;br&gt;&#xA;Juan Pablo Borthagaray (&lt;em&gt;Universidad de la República&lt;/em&gt;)&lt;br&gt;&#xA;Malena Español (&lt;em&gt;Arizona State University&lt;/em&gt;)&lt;br&gt;&#xA;Ariel Lombardi (&lt;em&gt;Universidad Nacional de Rosario&lt;/em&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;local-committee---rosario&#34;&gt;Local Committee - Rosario&lt;/h2&gt;&#xA;&lt;p&gt;María Evangelina Álvarez&lt;br&gt;&#xA;Melani Barrios&lt;br&gt;&#xA;Nahuel Carusso&lt;br&gt;&#xA;Eugenio Della Vecchia&lt;br&gt;&#xA;Elina Mancinelli&lt;br&gt;&#xA;Lucía Moroni&lt;br&gt;&#xA;Cecilia Penessi&lt;br&gt;&#xA;Sabrina Roscani&lt;/p&gt;&#xA;&lt;h2 id=&#34;local-committee---buenos-aires&#34;&gt;Local Committee - Buenos Aires&lt;/h2&gt;&#xA;&lt;p&gt;Francisco Bersetche&lt;br&gt;&#xA;Martín Maas&lt;br&gt;&#xA;Mauricio Mendiluce&lt;br&gt;&#xA;Ignacio Ojea&lt;br&gt;&#xA;Lorena Stockdale&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Registration</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/registration/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/registration/</guid>
+				<description>&lt;p&gt;Registration is managed by CIMPA. Please follow the link below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;&lt;a href=&#34;https://applications.cimpa.info&#34;&gt;https://applications.cimpa.info&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Registration Deadline: &lt;strong&gt;March 18, 2026&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Speakers</title>
+				<link>https://mate.dm.uba.ar/~esantalo14/en/speakers/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://mate.dm.uba.ar/~esantalo14/en/speakers/</guid>
+				<description>&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: right&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Blanca Ayuso&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá Degli Studi di Milano Bicocca&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Sören Bartels&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;University of Freiburg&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Daniele Boffi&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Jessika Camaño&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Católica de la Santísima Concepción&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Lucia Gastaldi&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universitá degli Study di Brescia&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Pedro Morín&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Universidad Nacional del Litoral&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Richardo Nochetto&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;University of Maryland&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;Raúl Tempone&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;KAUST King Abdullah University&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>
